@@ -1,0 +1,13 @@
+{
+  "name": "saludos-grid",
+  "version": "1.0.0",
+  "description": "Testing Sandbox for the Salesforce Lightning Design System",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
